@@ -4,3 +4,7 @@ michigan
 batman
 chaco
 pelos
+modificado desde github
+camilo
+rufino
+grisly
